@@ -1,6 +1,6 @@
 # curmmerce_project
 k-mean클러스터링과 cohort
-
+(RFM 추가 진행 예정)
 고객의 구매 활동성을 높이고 추가 구매 유도를 위한 분석
 ==============
 
