@@ -126,7 +126,7 @@
 ###### 집단별 분석 결과
 1. 작은 집에 혼자 사는 고객들
    
-    ![barplot2](image/cluster_11.png)
+    ![barplot2](image/cluster_11.PNG)
    
     ![barplot2](image/cluster_12.png)
     - 할인율, 나이, 가격, 주문수량 모두 매출액에 통계적으로 유의미하다고 볼 수 있습니다. 
@@ -138,14 +138,14 @@
    - 분석 불가 : 해당 군집의 고객수가 분석을 진행하기에는 적어 분석이 불가능했습니다.
 3. 음식점을 운영하는 고객들
    
-    ![barplot2](image/cluster_21.png)
+    ![barplot2](image/cluster_21.PNG)
    
     ![barplot2](image/cluster_22.png)
      - 나이의 p-value가 높아 통계적으로 무의미 합니다.
      - 주문 수량이 매출액을 예측하는데 가장 큰 비중을 차지하고 그 다음으로 할인율이 0.36으로 큰 비중을 차지합니다.
 4. 신혼집으로 이사하는 고객들
    
-    ![barplot2](image/cluster_31.png)
+    ![barplot2](image/cluster_31.PNG)
    
     ![barplot2](image/cluster_32.png)
    
@@ -154,7 +154,7 @@
      - 할인율이 0.43으로 매출에 영향을 끼친다고 볼 수 있습니다.
 5. 식당을 운영하는 고객들
     
-     ![barplot2](image/cluster_41.png)
+     ![barplot2](image/cluster_41.PNG)
     
      ![barplot2](image/cluster_42.png)
      - 할인율, 가격, 주문 수량이 p-value가 0.05보다 작아 매출액과 통계적으로 유의미합니다.
@@ -162,7 +162,7 @@
      - 다른 집단과는 다르게 가격이 높으면 매출액이 큰 경향을 보이는데 이는 해당 판매 품목들이 높은 가격을 띄우기 때문입니다.
 6. 자녀가 존재하는 고객들
    
-    ![barplot2](image/cluster_51.png)
+    ![barplot2](image/cluster_51.PNG)
    
     ![barplot2](image/cluster_52.png)
    
